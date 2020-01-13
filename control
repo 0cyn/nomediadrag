@@ -1,0 +1,9 @@
+Package: me.kritanta.nomediadrag
+Name: nomediadrag
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable LS dragging in the media player
+Maintainer: Kritanta
+Author: Kritanta
+Section: Tweaks (Minor)
